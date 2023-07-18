@@ -3,12 +3,10 @@ html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-So I've had the wireframe for this particular design kicking around for some time, but with all
+So I've had been thinking to create my protfolio around for some time, but with all
 the other interesting (and in some cases, semi-secret) projects I've been working on it took me
-a little while to get to actually designing and coding it. Fortunately, things have eased up
-enough for me to finaly get around to it, so I'm happy to introduce Hyperspace: a fun, blocky,
-one-page design with a lot of color, a bit of animation, and an additional "generic" page template
-(because hey, even one-page sites usually need an interior page or two). Hope you dig it :)
+a little while to get to actually designing and coding it. Fortunately,thanks to @Niranjani Wagh who had made things  eased up
+enough for me by her work to finaly get around to it, so I'm happy to introduce my protfolio. Hope you dig it :)
 
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
