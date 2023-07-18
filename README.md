@@ -1,2 +1,2 @@
-# sravyagangula.github.io
-My Protfolio
+# niranjani29.github.io
+My portfolio
